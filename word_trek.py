@@ -251,7 +251,7 @@ wordcloud = WordCloud(background_color="white",
 
 # display the generated image
 plt.imshow(wordcloud, interpolation='bilinear')
-#plt.title('star_trek_series = {} filter_word = {}'.format(star_trek_series, filter_word))
+#plt.title('star_trek_series = {} filter_word = {}'.format(star_trek_series))
 plt.axis('off')
 plt.show()
 
