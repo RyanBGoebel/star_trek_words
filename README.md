@@ -2,6 +2,9 @@
 An exploration of words used in various Star Trek television series.
 
 word_trek.py: creates word clouds that reflect the usage of words in a chosen Star Trek series with the usage of that word in the English language normally.
+              Note:  You may need to modify the following file locations to get it to work for you:
+                    ../data/us2gb-dictionary.txt
+                    ../data/all_scripts_raw.json
 
 all_scripts_raw.json: Downloaded from https://www.kaggle.com/gjbroughton/start-trek-scripts.
                       (Originally sourced from: http://www.chakoteya.net/StarTrek/index.html
